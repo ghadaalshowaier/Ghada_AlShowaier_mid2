@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ghada_AlShowaier_mid2</string>
+    <string name="intro">Ghada AlShowaier 191012</string>
+    <string name="add">add</string>
+    <string name="view">view</string>
+    <string name="delete">delete</string>
+    <string name="go2a2">go to activity 2</string>
+    <string name="go2a3">go to activity 3</string>
+    <string name="go2a1">go to activity 1</string>
+    <string name="search">search</string>
+    <string name="getdata">get data</string>
+    <string name="getinput">get input</string>
+</resources>
